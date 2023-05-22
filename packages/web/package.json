@@ -1,0 +1,17 @@
+{
+  "name": "@butler/web",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "Evan Fleet",
+  "type": "module",
+  "scripts": {
+    "astro": "astro",
+    "build": "astro build",
+    "dev": "astro dev",
+    "preview": "astro preview",
+    "start": "astro dev"
+  },
+  "dependencies": {
+    "astro": "^2.4.1"
+  }
+}
